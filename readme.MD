@@ -4,3 +4,6 @@
 - Oil added
 
 # Karam-Dosa
+
+- Batter added
+- Oil added + additional karam added
