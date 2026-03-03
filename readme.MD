@@ -11,3 +11,4 @@
 # egg-dosa-suresh
 
 - Batter added
+- 1 egg + oil added
