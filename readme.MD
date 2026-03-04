@@ -7,3 +7,6 @@
 
 - Batter added
 - Oil added + additional karam added
+
+# Panner dosa
+- Batter + oil added
