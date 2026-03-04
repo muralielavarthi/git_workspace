@@ -8,7 +8,5 @@
 - Batter added
 - Oil added + additional karam added
 
-# egg-dosa-suresh
-
-- Batter added
-- 1/2 eggs + oil added
+# Panner dosa
+- Batter + oil added
