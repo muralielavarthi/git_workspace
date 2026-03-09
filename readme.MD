@@ -21,3 +21,4 @@
 
 # idly dosa
 - Batter + oil added
+- 1 idly added
