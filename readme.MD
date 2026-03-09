@@ -22,4 +22,4 @@
 # idly dosa
 - Batter + oil added
 - 1/2 idly's added
-- 1 spone oil
+- 1/2 spone oil
