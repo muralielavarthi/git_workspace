@@ -23,3 +23,5 @@
 - Batter + oil added
 - 1/2 idly's added
 - add as required oil
+- Taste check for today
+
