@@ -14,3 +14,6 @@
 # onion dosa
 - Batter + oil added
 - Special onions added
+
+# new dosa
+- Batter + oil added
